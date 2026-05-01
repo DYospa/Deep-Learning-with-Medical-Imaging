@@ -17,7 +17,7 @@ It also applies **Grad-CAM** to generate heatmaps that explain which regions of 
 ## 🖼️ Example Grad-CAM Output
 
 <p align="center">
-  <img src="AI/gradcam_example.png" width="400"/>
+  <img src="Desktop/AI/gradcam_example.png" width="400"/>
 </p>
 
 > Grad-CAM highlights areas the model focuses on when making predictions.
@@ -60,7 +60,7 @@ It also applies **Grad-CAM** to generate heatmaps that explain which regions of 
 ## 🔍 Confusion Matrix
 
 <p align="center">
-  <img src="AI/confusion_matrix.png" width="400"/>
+  <img src="Desktop/AI/confusion_matrix.png" width="400"/>
 </p>
 
 ---
